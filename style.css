@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+.quiz-div {
+border: 20px solid #f85b1a;   
+margin-right: 220px;
+margin-left: 130px;
+margin-top: 70px;   
+background-color: #191970;
+height:650px;
+
+}
+
+.title{
+    padding:120px;
+}
+
+.button {
+    
+    font-size: 50px;
+    border: 5px solid #f85b1a;
+    border-radius: 50px;
+    padding: 10px 80px;
+    margin-left: 400px;
+    margin-right: 465px;
+    text-align: center;
+    color: #f85b1a;
+    margin-top:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
